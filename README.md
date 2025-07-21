@@ -34,7 +34,7 @@ A one-stop solution for **automated news filtering** in aggregation apps:
 1. **Clone** this repo:
 
    ```bash
-   git clone <your-repo-url> && cd news-classifier
+   git clone https://github.com/sohailshk/News_Filtering_InProduction && cd news-classifier
    ```
 2. **Create** a virtual environment & install dependencies:
 
